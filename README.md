@@ -32,3 +32,10 @@ Tests
 References:
  - [Ansible role testing](http://www.jeffgeerling.com/blog/testing-ansible-roles-travis-ci-github)
  - [Ansible apache role](https://github.com/geerlingguy/ansible-role-apache)
+
+Author Information
+------------------
+
+Steamulo - www.steamulo.com
+
+Forked from [tecris](https://github.com/tecris)
